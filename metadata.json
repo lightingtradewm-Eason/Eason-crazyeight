@@ -1,0 +1,9 @@
+{
+  "name": "Eason 疯狂 8 点",
+  "description": "一个功能完整、响应式布局的经典纸牌游戏《疯狂 8 点》(Crazy Eights)，支持 AI 对战和流畅的动画体验。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "game_development",
+    "framer_motion_animations"
+  ]
+}
